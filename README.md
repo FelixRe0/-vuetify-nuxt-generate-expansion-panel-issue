@@ -19,8 +19,8 @@ $ npm run dev
 
 ## result
 
-![Alt text](./result.png?raw=true "dist/index.html")
+![generated](./result.PNG?raw=true)
 
 ## expected
 
-![Alt text](./expected.png?raw=true "run dev")
+![dev](./expected.PNG?raw=true)
